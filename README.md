@@ -13,4 +13,6 @@ This CGPA Calculator is developed as part of my **C++ Programming Internship at 
 ## Methods Used
 - C++
 - Conditional statements & loops
-- File I/O (optional)
+- Vectors
+- Map
+- Output Formating
